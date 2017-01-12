@@ -4,6 +4,17 @@
   
     
     <entry>
+      <title><![CDATA[【github】please tell me who you are]]></title>
+      <url>http://unius.cc/2017/01/11/github-please-tell-me-who-you-are/</url>
+      <content type="html"><![CDATA[<p>github 提示 please tell me who you are 可以参考以下资料：</p>
+<p>```<em>*</em> Please tell me who you are.<br>Run</p>
+<p>git config –global user.email “you@example.com”<br>git config –global user.name “Your Name”  </p>
+<p>to set your account’s default identity.<br>Omit –global to set the identity only in this repository.<br>```</p>
+<p>上面两行代码将你的 email 和 username 添加到全局配置中，这样对以后所有的 repository 都会使用这个配置。如果忽略 –global 则只对当前 repository 有效。</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hexo Documents]]></title>
       <url>http://unius.cc/2017/01/09/hexo-documents/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
